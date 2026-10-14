@@ -38,5 +38,3 @@ if (average >= 90) {
 } else return 'F'
 }
 
-
-//https://www.codewars.com/kata/55cbd4ba903825f7970000f5/train/javascript
