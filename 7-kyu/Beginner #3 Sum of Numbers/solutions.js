@@ -18,9 +18,8 @@
 
 
 
-//Solutions
-function getSum(a, b)
-{
+//solutions
+function getSum(a, b){
 let total = 0; 
 
 const start = Math.min(a, b); 
